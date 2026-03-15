@@ -441,6 +441,12 @@ As you analyze more ROMs, you'll start recognizing common patterns. Claude can h
 
 You can ask Claude: "Is this a debouncing routine?" or "Can you identify the BCD addition happening here?"
 
+## **Other tools and sources**
+
+[Slochar's disassembled ROMs](https://tsqmadness.com/slochar/SOURCE/)
+
+[IdealJoker's 7Eleven](https://github.com/idealjoker/7eleven): Tool for disassembling Williams ROMs (I used this to get labels for the F14 Tomcat project)
+
 ## **Wrapping Up**
 
 Analyzing vintage pinball ROMs might seem daunting at first, but with Ghidra, GhidraMC6800, GhidrassistMCP, and Claude Code working together, you can actually understand what's happening inside these classic machines. You don't need to be a professional reverse engineer—just curiosity, patience, and the willingness to ask questions.
